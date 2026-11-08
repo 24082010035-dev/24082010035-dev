@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Neon%20Cosmic%20Developer%20Portfolio%20Banner.png" width="100%" alt="Arga Dwi Prastyo - Cosmic Tech Banner">
+</p>
 
 # Hi, I'm Arga Dwi Prastyo! 👋
 
