@@ -45,22 +45,17 @@ I enjoy learning new technologies, exploring different areas of IT, and building
 - Git & GitHub
 - Figma
 
-## 📂 Featured Projects
 
-### 1. SkillSync
+## 📂 Featured Project
+
+### SkillSync
+
 A web-based platform designed to help students identify their skills, explore career paths, and discover opportunities for personal development.
 
 **Technologies:** Laravel, MySQL, Tailwind CSS
 
-### 2. EDUKASIN
-An educational application concept designed to support productive learning activities through interest exploration, learning resources, and mentoring features.
+🔗 [Explore SkillSync Repository](https://github.com/24082010035-dev/SkillSync)
 
-**Technologies:** Flutter, Firebase
-
-### 3. Personal Portfolio
-A personal website showcasing my profile, skills, projects, and development journey.
-
-**Technologies:** React, Vite, Tailwind CSS
 
 ## 📫 Connect With Me
 
